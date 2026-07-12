@@ -80,7 +80,7 @@ NOTE: They're built to reinforce each other, but none is a prerequisite for the 
 
 **[AI Fluency Quiz](https://github.com/kunalsuri/ai-fluency-quiz)** is a free, open-source self-assessment that helps students, builders, and leaders find out how AI-native they really are.
 
-- ⏱️ Pick your role and available time, then work through **136 questions across 15 topic banks** — foundations, LLMs, transformers, prompting, RAG, agents, safety, ethics, fine-tuning, and more — spanning beginner to expert tiers.
+- ⏱️ Pick your role and available time, then work through questions spanning multiple topic banks — foundations, LLMs, transformers, prompting, RAG, agents, safety, ethics, fine-tuning, and more — across beginner to expert tiers.
 - 📚 Every answer comes with an honest explanation and cited sources, not just a right/wrong verdict.
 - 📄 Get a personalized cheat sheet and reading list ("The Frontier") targeting your specific knowledge gaps.
 - 🔒 Privacy-first: zero storage, zero tracking, zero external requests after the page loads — everything runs client-side.
