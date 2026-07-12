@@ -76,16 +76,20 @@ NOTE: They're built to reinforce each other, but none is a prerequisite for the 
 
 <br>
 
-## 🧠 How AI-Native Are You?
+## 🧠 The 'AI Fluency Quiz' - How AI-Native Are You?
 
-**[AI Fluency Quiz](https://github.com/kunalsuri/ai-fluency-quiz)** is a free, open-source self-assessment that helps students, builders, and leaders find out how AI-native they really are.
+**[AI Fluency Quiz](https://github.com/kunalsuri/ai-fluency-quiz)** repo provide a tool for a free, open-source self-assessment to assist students, builders, and leaders to find out how AI-native they are.
 
 - ⏱️ Pick your role and available time, then work through questions spanning multiple topic banks — foundations, LLMs, transformers, prompting, RAG, agents, safety, ethics, fine-tuning, and more — across beginner to expert tiers.
 - 📚 Every answer comes with an honest explanation and cited sources, not just a right/wrong verdict.
 - 📄 Get a personalized cheat sheet and reading list ("The Frontier") targeting your specific knowledge gaps.
 - 🔒 Privacy-first: zero storage, zero tracking, zero external requests after the page loads — everything runs client-side.
 
-It's a standalone project (not part of the AI-Fication pipeline above), but it shares the same spirit: helping people honestly gauge and grow their AI fluency. Try it at [ai-fluency-quiz](https://github.com/kunalsuri/ai-fluency-quiz).
+It's a standalone project (not part of the AI-Fication pipeline above), but it shares the same spirit: helping people honestly gauge and grow their AI fluency. 
+
+<br>
+
+Try it at https://ai-fluency-quiz-rust.vercel.app/
 
 <br>
 
