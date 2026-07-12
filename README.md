@@ -7,24 +7,26 @@
 **Provenance-tagged, Verifiable AI outputs — From Methodology to Distribution.**
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](./LICENSE)
-[![Ecosystem](https://img.shields.io/badge/repos-3-orange.svg)](#-the-repos)
+[![Ecosystem](https://img.shields.io/badge/repos-4-orange.svg)](#-the-repos)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](#-the-repos)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/kunalsuri/ai-fication-kit)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Work_in_Progress-ff69b4.svg)](https://github.com/kunalsuri/ai-fication-kit)
 
-[AI-Fication-Kit](https://github.com/kunalsuri/ai-fication-kit) · [Agent-Skill](https://github.com/kunalsuri/agent-skills) · [SkillDesk](https://github.com/kunalsuri/SkillDeck)
+[AI-Fication-Kit](https://github.com/kunalsuri/ai-fication-kit) · [Agent-Skill](https://github.com/kunalsuri/agent-skills) · [SkillDesk](https://github.com/kunalsuri/SkillDeck) · [AI Fluency Quiz](https://github.com/kunalsuri/ai-fluency-quiz)
 
 </div>
 
-<br>
-
 ---
+
+<br>
 
 ## 🧩 What is this?
 
 AI-Fication Hub is the MAP for the AI-Fication Ecosystem.
 
 > 🧱 **AI-Fication-Kit** provides the core methodology — provenance-tagged, verifiable outputs.
+
 > 🛠️ **Agent-Skill** provides a set of `SKILL.md` files built by community authors (such as @kunalsuri et al.) using the latest SOTA AI-powered tools, with Human-in-the-Loop verification.
+
 > 📦 **SkillDesk** curates information about different `SKILL`s spread across repositories from Anthropic, Google, and the community. This tool makes understanding and consuming diverse skills easy for both new and experienced AI-native users.
 
 This repo explains how the pieces connect and how to use them together. **It doesn't ship code — it's the front door.**
@@ -32,7 +34,7 @@ This repo explains how the pieces connect and how to use them together. **It doe
 <br>
 
 
-## 🔗 The ecosystem, connected but independent
+## 🔗 The Ecosystem, Connected but Independent
 
 ```mermaid
 flowchart TB
@@ -49,7 +51,7 @@ flowchart TB
 
 <br>
 
-## 🚦 Use what you need
+## 🚦 Use What You Need!
 
 
 - **Building Code / Reports and need SKILLs?** Grab `SKILL.md` files straight from **Agent-Skill** — no setup elsewhere required.
@@ -89,7 +91,18 @@ It's a standalone project (not part of the AI-Fication pipeline above), but it s
 
 <br>
 
-Try it at https://ai-fluency-quiz-rust.vercel.app/
+🔗 It's Online, Try it at:  https://ai-fluency-quiz-rust.vercel.app/
+
+<br>
+
+---
+
+## 🔗 Links & 📖 Glossary of Terms
+
+- 🧱 [AI-Fication-Kit](https://github.com/kunalsuri/ai-fication-kit) — the methodology
+- 🛠️ [Agent-Skill](https://github.com/kunalsuri/agent-skills) — the tooling
+- 📦 [SkillDesk](https://github.com/kunalsuri/SkillDeck) — the distribution layer
+- 🧠 [AI Fluency Quiz](https://github.com/kunalsuri/ai-fluency-quiz) — self-assess how AI-native you are
 
 <br>
 
@@ -109,15 +122,6 @@ Try it at https://ai-fluency-quiz-rust.vercel.app/
 | **Pipeline** | The end-to-end flow of a skill through the ecosystem: methodology (Kit) → authoring/validation (Agent-Skill) → curation/distribution (SkillDesk). |
 
 </details>
-
-<br>
-
-## 🔗 Links
-
-- 🧱 [AI-Fication-Kit](https://github.com/kunalsuri/ai-fication-kit) — the methodology
-- 🛠️ [Agent-Skill](https://github.com/kunalsuri/agent-skills) — the tooling
-- 📦 [SkillDesk](https://github.com/kunalsuri/SkillDeck) — the distribution layer
-- 🧠 [AI Fluency Quiz](https://github.com/kunalsuri/ai-fluency-quiz) — self-assess how AI-native you are
 
 <br>
 
